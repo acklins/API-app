@@ -2,29 +2,30 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-
 section {
     border: 10px solid gray;
-    height: 90vh;
+    height: 100vh;
     display: flex; 
-    /* align-items:center;  
-    justify-content: center;   */
     background-color: goldenrod;
 }
 .container {
     border: 20px solid gray;
     max-width: 700px;
-    max-height: 700px;
+    height: 79%;
     width: 100%;
     margin: auto;
-
-  /*  height: 50vh;
-    display: flex; 
-    align-items:center;  
-    justify-content: center; */
     background-color:purple;
 }
-
 h1{
     color: goldenrod;
+}
+.fa fa-search button {
+    border:none;
+    cursor:pointer;
+    display: inline-block;
+    font-size: 20px;
+    padding: 18px 20px;
+    z-index: 2;
+    
+
 }
