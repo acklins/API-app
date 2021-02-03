@@ -1,3 +1,30 @@
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    border: 10px solid gray;
+    height: 90vh;
+    display: flex; 
+    /* align-items:center;  
+    justify-content: center;   */
+    background-color: goldenrod;
+}
+.container {
+    border: 20px solid gray;
+    max-width: 700px;
+    max-height: 700px;
+    width: 100%;
+    margin: auto;
+
+  /*  height: 50vh;
+    display: flex; 
+    align-items:center;  
+    justify-content: center; */
+    background-color:purple;
+}
+
 h1{
     color: goldenrod;
 }
