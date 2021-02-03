@@ -19,13 +19,3 @@ section {
 h1{
     color: goldenrod;
 }
-.fa fa-search button {
-    border:none;
-    cursor:pointer;
-    display: inline-block;
-    font-size: 20px;
-    padding: 18px 20px;
-    z-index: 2;
-    
-
-}
