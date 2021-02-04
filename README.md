@@ -26,11 +26,11 @@ paintz.app website.
 
  Descriptions of any Unsolved problems or major hurdles I had to overcome:
  1) how to write DRY functions in js.
- 2) knowledge leveling up on logic, DOM, event listener and functions.
+ 2) knowledge leveling up on logic, DOM, event listener, functions & markdown syntax.
  3) how to use template literals in js code to display the selected json.
  4) how to implement the clear function and still deciding on most efficient data removal.
  5) how to remove target via useage of firstChild, nextChild, lastChild(prevChild).
- 6) overall aesthetics and patient usage of CSS to overcome those hurdles.
+ 6) overall aesthetics and patient usage of CSS to overcome this hurdle.
  7) media query to handle the api list(li) display on mobile.
 
 
